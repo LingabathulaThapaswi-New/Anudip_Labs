@@ -6,7 +6,7 @@
     A Console-Based Hospital management System is more efficient in registration of their patients and manage appointments, records of patients. It enables doctors and admin to view and modify appointments schedules if required. The purpose of this project is to computerize all details regarding patient details and doctor details.
     <br/>
     <br/>
-    <a href="https://github.com/NavaneethaBonala/Java-Project"> <strong> Github link for the Hospital Management System Project  »</strong></a>
+    <a href="https://github.com/LingabathulaThapaswi-New/Anudip_Labs/tree/main/JavaFullStack_ConsoleBased_Project/HMS_FSJCBd_PROJECT"> <strong> Github link for the Hospital Management System Project  »</strong></a>
     <br/>
   </p>
 </p>
